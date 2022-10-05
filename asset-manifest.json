@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/light-dark-mode-react-app/static/css/main.3a441c7d.css",
+    "main.js": "/light-dark-mode-react-app/static/js/main.3a799a2c.js",
+    "index.html": "/light-dark-mode-react-app/index.html",
+    "main.3a441c7d.css.map": "/light-dark-mode-react-app/static/css/main.3a441c7d.css.map",
+    "main.3a799a2c.js.map": "/light-dark-mode-react-app/static/js/main.3a799a2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a441c7d.css",
+    "static/js/main.3a799a2c.js"
+  ]
+}
